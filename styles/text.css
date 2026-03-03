@@ -1,0 +1,54 @@
+ p{
+        font-family:Arial;
+    }
+
+
+    .video-title{
+        /* font-family: Arial; */
+        font-size: 18px;
+        font-weight: bold;
+        /* font-style: italic; */
+        line-height: 24px;
+        margin-bottom: 5px;
+        
+    }
+    .video-stats{
+        /* font-family: Arial; */
+        font-size: 14px;
+        color:rgb(63, 63, 63);
+        margin-top: 0;
+        margin-bottom:0;
+        
+    }
+    .name-edit{
+        /* font-family: Arial; */
+        font-size: 14px;
+        color:rgb(63, 63, 63);
+        
+
+    }
+    .video-discription{
+        /* font-family: Arial; */
+        font-size: 14px;
+        color:rgb(63, 63, 63);
+        line-height: 20px;
+        margin-bottom: 100px;
+    }
+    .apple-text{
+        font-size: 17px;
+        background-color: red;
+        height: 36px;
+        width: 600px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        padding-top: 20px;
+        color: white;
+    }
+
+    .shop-now{
+        color: black;
+        cursor: pointer;
+    }
+    .shop-now :hover{
+        opacity: 0.3;
+    }
