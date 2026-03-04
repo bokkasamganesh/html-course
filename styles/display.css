@@ -1,0 +1,26 @@
+.name,
+.email {
+    margin-bottom: 4px;
+    display: block;
+}
+.survay,
+.yes,
+.no {
+    margin-right: 0px;
+    display : inline-block;
+    vertical-align: middle;
+}
+.search-bar {
+    height:30px;
+    width: 300px;
+    border-radius:20px;
+    border-style: solid;
+    border: none;
+    box-shadow: 4px 4px  10px rgb(193, 195, 197);
+}
+.search-bar:hover{
+    box-shadow: 4px 4px 10px rgb(84, 84, 84);
+}
+.search-bar:active{
+    opacity: 0.3;
+}
